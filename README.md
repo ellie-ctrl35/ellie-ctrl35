@@ -1,7 +1,14 @@
 - 👋 Hi, I’m Emmanuel
 - 👀 I’m interested in Mobile and Web App Development
-- 🌱 I’m currently learning Graphql
+- 🌱 I’m currently learning Next js
 - 💞️ I’m looking to collaborate on FullStack Web and Mobile Apps
+- MY STACK
+- NODE JS
+- EXPRESS JS
+- REACT
+- REACT NATIVE
+- GRAPHQL
+- MONGODB
 - 📫 How to reach me +233559925298
 
 <!---
