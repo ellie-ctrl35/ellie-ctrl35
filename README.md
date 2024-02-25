@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel
-- 👀 I’m interested in Mobile and Web App Development
+- 👀 I’m interested in Mobile and Web App Development and Augmented Reality Apps
 - 🌱 I’m currently learning Next js
 - 💞️ I’m looking to collaborate on FullStack Web and Mobile Apps
 - MY STACK
@@ -10,6 +10,8 @@
 - GRAPHQL
 - MONGODB
 - ELECTRON JS
+- C#
+- Unity
 - 📫 How to reach me +233559925298 on WhatsApp
 - +233559596204 for calls and texts
 
